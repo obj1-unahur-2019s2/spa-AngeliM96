@@ -21,7 +21,6 @@ object olivia
 	}
 	method darseUnBanioDeVapor()
 	{
-		concentracion = concentracion
 	}
 }
 
